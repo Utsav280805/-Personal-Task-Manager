@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Finish homework",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Buy groceries",
+      "status": "in-progress"
+    },
+    {
+      "id": 3,
+      "title": "Clean the house",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "title": "Complete project report",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "Pay bills",
+      "status": "completed"
+    }
+  ]
+  
